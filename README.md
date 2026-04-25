@@ -1,2 +1,12 @@
-# AirCanvas
-AirCanvas is a gesture-controlled drawing studio that lets users create digital art using hand movements via camera input. It supports 2D/3D modes, shape tools, colors, and brush control, with gestures for draw, scale, undo, and clear—offering a hands-free, interactive creative experience.
+# NextGen
+
+Gesture-controlled drawing studio by Team NextGen.
+
+![NextGen App Screenshot](https://github.com/user-attachments/assets/3f1d728f-c001-4e36-ae21-4d5d46f3b7b5)
+
+## Steps For Installation
+
+```bash
+npm install
+npm run dev
+```
